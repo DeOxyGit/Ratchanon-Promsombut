@@ -1,6 +1,4 @@
 # 👋 Hi, I’m @Ratchanon-Promsombut
-- 👀 I’m interested in all programming 
-- 🌱 I’m currently learning python , sql , html , css , javascript
 
 
 <!---
